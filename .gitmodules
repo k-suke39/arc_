@@ -1,0 +1,6 @@
+[submodule "activerecorder_back"]
+	path = activerecorder_back
+	url = https://github.com/k-suke39/activerecorder_back.git
+[submodule "activerecorder_front"]
+	path = activerecorder_front
+	url = https://github.com/k-suke39/activerecorder_front.git
